@@ -31,7 +31,7 @@
 
 ## Difference between position relative, absolute, fixed, sticky and static
 
-**Position static elemenets are positioned based upon the flow of the page**
+**Position static elements are positioned based upon the flow of the page**
 **Position relative elements flow with the page, but can be moved**
 **Position absolute elements do not affect any other element on the page, and can be moved**
 **Position fixed is like absolute, but it's not relative to its parent element, so it will move with the entire page**
